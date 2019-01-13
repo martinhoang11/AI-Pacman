@@ -1,0 +1,138 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics (ID=0x402)
+    Vendor:   Intel
+    VRAM:     1103 MB
+    Driver:   20.19.15.4835
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Teachers\Downloads\Project\Project\Pacman-game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Teachers\Downloads\Project\Project\Pacman-game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Teachers\Downloads\Project\Project\Pacman-game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Teachers\Downloads\Project\Project\Pacman-game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Teachers\Downloads\Project\Project\Pacman-game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Teachers\Downloads\Project\Project\Pacman-game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Teachers\Downloads\Project\Project\Pacman-game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Teachers\Downloads\Project\Project\Pacman-game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Teachers\Downloads\Project\Project\Pacman-game_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Teachers\Downloads\Project\Project\Pacman-game_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Teachers\Downloads\Project\Project\Pacman-game_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Teachers\Downloads\Project\Project\Pacman-game_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.037 seconds
+Platform assembly: C:\Users\Teachers\Downloads\Project\Project\Pacman-game_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Teachers\Downloads\Project\Project\Pacman-game_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.531023 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.412146 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 3076.
+Total: 0.700419 ms (FindLiveObjects: 0.148357 ms CreateObjectMapping: 0.036389 ms MarkObjects: 0.482082 ms  DeleteObjects: 0.010263 ms)
+
+PacMan is standing at: (683.0, 384.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PacMan is standing at: (-1.0, 32.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PacMan is standing at: (1048.5, 63.8)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PacMan is standing at: (1255.3, 672.1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PacMan is standing at: (1255.3, 522.7)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PacMan is standing at: (0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PacMan is standing at: (1132.6, 596.1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PacMan is standing at: (15.0, 17.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PacMan is standing at: (683.0, 384.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PacMan is standing at: (12.0, 20.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PacMan is standing at: (-1.0, -1.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PacMan is standing at: (15.0, 17.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PacMan is standing at: (28.0, -1.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PacMan is standing at: (0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PacMan is standing at: (0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PacMan is standing at: (1124.5, 741.5)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PacMan is standing at: (546.9, 297.3)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PacMan is standing at: (544.3, 500.1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PacMan is standing at: (28.0, 32.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PacMan is standing at: (12.0, 17.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PacMan is standing at: (544.3, 384.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PacMan is standing at: (15.0, 7.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PacMan is standing at: (1141.9, 63.8)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PacMan is standing at: (0.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+pellet (81) (Node)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2558 -> priority: 1 
